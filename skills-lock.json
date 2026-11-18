@@ -28,6 +28,13 @@
       "sourceType": "github",
       "skillPath": "skills/productivity/grilling/SKILL.md",
       "computedHash": "485451958784497cd4c4dbea13cb5bbb579da58fac0d0e45f3bcb310fab68ac7"
+    },
+    "playwright-skill": {
+      "source": "lackeyjb/playwright-skill",
+      "commit": "dd47a6a023e249eb1b36e9e943eab89d0900865d",
+      "sourceType": "github",
+      "skillPath": "skills/playwright-skill/SKILL.md",
+      "computedHash": "11a5e9fbfdb24afdd7f7a682711f68a9caa6be91b70d8531e578fdce438e0fad"
     }
   }
 }
